@@ -16,7 +16,7 @@ Integrated with Llava-7B makes it a perfect assistant for daily use.
 
 ## Getting Started
 
-To get started with Whisper, follow these simple steps:
+To get started, follow these simple steps:
 
 1. **Clone the Repository**: Clone this GitHub repository to your local machine.
 
@@ -31,7 +31,7 @@ cd Multimodal-AI-Assistant
 pip install -r requirements.txt
 ```
 
-3. **Run the Application**: Run the application using jupyter notebook and run all cells.
+3. **Run the Application**: Run the application using jupyter notebook or collab and run all cells.
 
 ```bash
 jupyter notebook
